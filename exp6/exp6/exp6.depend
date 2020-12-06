@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1604997155 source:c:\users\accelerator\desktop\fish\exp6\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1605057414 source:c:\users\lenovo\desktop\000\006\exp6\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

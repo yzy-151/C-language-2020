@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1604725469 source:c:\users\accelerator\desktop\fish\test8\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1605055444 source:c:\users\lenovo\desktop\新建文件夹\200210122-袁振洋-exp8\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1605058344 source:c:\users\lenovo\desktop\000\008\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1605067367 source:c:\users\accelerator\desktop\000\000\exp8\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

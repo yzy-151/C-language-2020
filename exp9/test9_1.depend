@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1605160121 source:c:\users\accelerator\desktop\fish\test9_1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1605177929 source:c:\users\accelerator\desktop\c__experiment\exp9\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

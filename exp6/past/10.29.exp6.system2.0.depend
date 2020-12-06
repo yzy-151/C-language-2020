@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1603944624 source:c:\users\lenovo\desktop\10.29.exp6.system2.0\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1604242331 source:c:\users\accelerator\desktop\c”Ô—‘\200210122-‘¨’Ò—Û-exp6\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
