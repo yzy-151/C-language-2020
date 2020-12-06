@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1601275935 source:c:\users\accelerator\desktop\fish\9.28.p101.jiafa\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+

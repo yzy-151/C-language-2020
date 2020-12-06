@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1601276285 source:c:\users\accelerator\desktop\fish\9.28.p101.xunhuan\main.c
+	<stdio.h>
+	<stdlib.h>
+

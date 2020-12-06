@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1600844246 source:c:\users\accelerator\desktop\fish\9.23.p39.sqrt\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+

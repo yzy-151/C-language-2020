@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1600847792 source:c:\users\accelerator\desktop\fish\9.23.43p.fangcheng\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
+1600847792 source:c:\users\accelerator\desktop\fish\9.23.p43.fangchengyiyuanerci\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
