@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1604996094 source:c:\users\lenovo\desktop\新建文件夹\200210122-袁振洋-exp4\exp4_2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<math.h>
+

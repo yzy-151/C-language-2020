@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1603338287 source:c:\users\lenovo\desktop\10.22.exp4.1system1.\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<math.h>
+
+1603463686 source:c:\users\accelerator\desktop\新建文件夹 (2)\10.22.exp4.1system1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<math.h>
+
