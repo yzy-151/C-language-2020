@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1601882396 source:c:\users\accelerator\desktop\fish\10.04.p141.由增长率计算年份\main.c
+	<stdio.h>
+	<stdlib.h>
+

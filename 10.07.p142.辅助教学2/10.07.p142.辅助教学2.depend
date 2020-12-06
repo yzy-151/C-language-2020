@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1602308002 source:c:\users\accelerator\desktop\fish\10.07.p142.¸¨Öú½ÌÑ§2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<windows.h>
+
