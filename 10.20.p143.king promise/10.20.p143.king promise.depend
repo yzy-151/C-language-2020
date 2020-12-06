@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1603198001 source:c:\users\accelerator\desktop\fish\10.20.p143.king promise\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+

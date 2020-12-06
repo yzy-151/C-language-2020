@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1602851939 source:c:\users\accelerator\desktop\fish\10.16.yuliqi\main.c
+	<stdio.h>
+	<stdlib.h>
+

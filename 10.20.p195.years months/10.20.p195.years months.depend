@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1603290570 source:c:\users\accelerator\desktop\fish\10.20.p195.years months\main.c
+	<stdio.h>
+	<stdlib.h>
+
